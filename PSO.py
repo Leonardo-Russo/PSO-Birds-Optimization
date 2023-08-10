@@ -61,7 +61,7 @@ X, Y = np.meshgrid(x, y)
 Z = landscape(X, Y)
 
 fig, ax = plt.subplots()
-CS = ax.contourf(X, Y, Z, 20, cmap='inferno')
+CS = ax.contourf(X, Y, Z, 20, cmap='cividis')
 particles, = plt.plot([], [], 'ro', markersize=10)
 
 # For storing particle numbers
