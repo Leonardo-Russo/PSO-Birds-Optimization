@@ -92,4 +92,4 @@ plt.title('Particle Swarm Optimization on 2D Hill')
 plt.colorbar(CS)
 plt.show()
 
-ani.save('PSO_animation.gif', writer='imagemagick', fps=2)
+ani.save('PSO_animation.gif', writer='imagemagick', fps=3)
