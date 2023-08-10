@@ -29,3 +29,7 @@ The contour plot represents a 2D hill (Gaussian distribution). The red dots are 
 ---
 
 Developed as an illustrative example of the PSO algorithm. For further details or inquiries, please reach out.
+
+**Contributor:** Leonardo Russo
+
+**Last Updated:** 10/08/2023
